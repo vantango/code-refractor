@@ -13,6 +13,6 @@
 * https://vantango.github.io/horiseon-refractor/
 ### Repository
 * https://github.com/vantango/horiseon-refractor
-![webpage-screenshot](/code/horiseon-refractor/screencapture-vantango-github-io-horiseon-refractor-2020-12-02-22_33_00)
+![webpage-screenshot](https://github.com/vantango/horiseon-refractor/blob/main/screencapture-vantango-github-io-horiseon-refractor-2020-12-02-22_33_00.png)
 
         
