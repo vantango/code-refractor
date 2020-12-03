@@ -1,6 +1,6 @@
 # Code Refractor Project for Horiseon
 
-# Table of Contents
+## Table of Contents
 
 ### Project Description
 I was tasked to refract the code in Horiseon's landing webpage to improve accessibility, remove any redundancies in the page's code, and fix any broken tags/elements. 
