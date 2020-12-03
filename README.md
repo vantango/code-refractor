@@ -10,8 +10,8 @@
 * Fixed Search Engine Optimization link in nav bar.
 * Inserted comments to both CSS and HTML file code markups.
 ### Deployment
-* https://vantango.github.io/code-refractor/
+* https://vantango.github.io/horiseon-refractor/
 ### Repository
-* https://github.com/vantango/code-refractor
+* https://github.com/vantango/horiseon-refractor
 
         
